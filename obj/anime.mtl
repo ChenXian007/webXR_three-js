@@ -1,0 +1,36 @@
+newmtl Body SubSurface Mat_d07815d4-2f81-40dd-b63e-92e2f04dbb65
+Kd 1.000 0.918 0.878
+d 1.000
+newmtl Beard_0c64c165-9eab-4bf1-be2c-52fddcd4d2c4
+Kd 0.322 0.251 0.231
+d 1.000
+newmtl Tongue_e31bc663-6356-448f-ad3c-4ee033334fbf
+Kd 1.000 0.831 0.769
+d 1.000
+newmtl Teeth_ac6aee13-b8cd-434b-b02b-ffd9d2f8a1db
+Kd 0.929 0.929 0.929
+d 1.000
+newmtl Frame_66aac53b-3a2a-4079-a8ba-e0720a0dfd42
+Kd 0.722 0.722 0.722
+d 1.000
+newmtl Eyes_9ad6ccc4-54ad-4321-a749-ff1ef0baa385
+Kd 0.180 0.180 0.180
+d 1.000
+newmtl Belt_da64e9c9-c8c9-4d9f-8d6e-eee04ce38721
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl Trousers_a4ddf979-c022-4cf7-8cbd-04736f60d9bb
+Kd 0.251 0.204 0.400
+d 1.000
+newmtl Shoe_14e01fa1-45de-4e5c-97ef-428c49b4c826
+Kd 0.922 0.486 0.376
+d 1.000
+newmtl Belt Strap_d3f9e800-6107-4af6-8161-10894e32ee48
+Kd 0.412 0.412 0.412
+d 1.000
+newmtl Shirt_74dfe213-b592-45a5-8863-1475e9e149b9
+Kd 0.820 0.820 0.820
+d 1.000
+newmtl Socks_148430d3-9dfb-4c16-ad53-9a44737eef4a
+Kd 1.000 1.000 1.000
+d 1.000

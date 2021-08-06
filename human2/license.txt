@@ -1,0 +1,11 @@
+Model Information:
+* title:	OutHere Space Buddy
+* source:	https://sketchfab.com/3d-models/outhere-space-buddy-4fb60251c9f446d0ad70b672bb0bf9c2
+* author:	OutHereVR (https://sketchfab.com/OutHereVR)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "OutHere Space Buddy" (https://sketchfab.com/3d-models/outhere-space-buddy-4fb60251c9f446d0ad70b672bb0bf9c2) by OutHereVR (https://sketchfab.com/OutHereVR) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
